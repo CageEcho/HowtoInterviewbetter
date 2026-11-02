@@ -1,51 +1,102 @@
-<div align="center">
+<div align="center" markdown="1">
 
-<img src="og.png" alt="AI 产品经理面试复盘手册：把每一场面试变成可复用的资产" width="820">
+<img src="og.png" alt="AI 产品经理面试复盘手册：把每一场面试变成可复用的资产。一个入口、一岗一行、一场一档、三色话术、可量化打分。" width="820">
 
 # AI 产品经理面试复盘手册
 
-把每一场面试变成可复用的资产。<br>
-这是一份面试复盘方法：一个固定入口、一岗一行、一场一档、三色话术、可量化打分。正文在 [book/](book/)，空白模板在 [templates/](templates/)，脱敏样例在 [examples/](examples/)。想让 AI 照着做，用 [skills/interview-review/](skills/interview-review/)。
+把每一场面试变成可复用的资产。
 
-不用全做：这是一份备选单，不是任务清单——挑一两条先用起来就算数。
-
-做法来自面试复盘的整理，不一定贴合每一家公司的流程。分享之前先去掉真实姓名、公司、薪资和链接。发现写错了，欢迎[提 issue](https://github.com/CageEcho/howtointerviewbetter/issues)。
-
-[![章节](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82-11%20%E7%AB%A0-1f6b4a?style=flat-square)](#目录)
-[![结构](https://img.shields.io/badge/%E7%BB%93%E6%9E%84-%E4%B8%80%E4%B8%AA%E5%85%A5%E5%8F%A3%20%C2%B7%209%20%E4%B8%AA%E5%AD%90%E6%96%87%E6%A1%A3-163028?style=flat-square)](#建飞书结构)
-[![方法](https://img.shields.io/badge/%E6%96%B9%E6%B3%95-%E4%B8%80%E5%B2%97%E4%B8%80%E8%A1%8C%20%C2%B7%20%E4%B8%80%E5%9C%BA%E4%B8%80%E6%A1%A3-3d6b54?style=flat-square)](#目录)
-[![话术](https://img.shields.io/badge/%E8%AF%9D%E6%9C%AF-%E7%BB%BF%E5%8F%A3%E6%92%AD%20%C2%B7%20%E7%BA%A2%E9%81%BF%E5%9D%91%20%C2%B7%20%E9%BB%84%E8%BF%BD%E9%97%AE-8a5a12?style=flat-square)](#三色框)
-[![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-565a5f?style=flat-square)](#许可)
-
-### [让 AI 照书做复盘（skill）](skills/interview-review/README.md)
-
-装上之后，把转写链接和逐字稿交给它。它按手册写复盘、打分，并列出要回写的三处。第一次用，对它说「帮我建面试复盘飞书结构」。
+[![章节](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82-11%20%E7%AB%A0%20%2B%20%E9%99%84%E5%BD%95-1E6FD9?style=flat-square)](#目录)
+[![结构](https://img.shields.io/badge/%E7%BB%93%E6%9E%84-%E4%B8%80%E4%B8%AA%E5%85%A5%E5%8F%A3%20%C2%B7%2015%20%E4%B8%AA%E6%9D%BF%E5%9D%97-0B3D91?style=flat-square)](#建飞书结构)
+[![方法](https://img.shields.io/badge/%E6%96%B9%E6%B3%95-%E4%B8%80%E5%B2%97%E4%B8%80%E8%A1%8C%20%C2%B7%20%E4%B8%80%E5%9C%BA%E4%B8%80%E6%A1%A3-1E6FD9?style=flat-square)](#一场面试从投递到复盘)
+[![话术](https://img.shields.io/badge/%E8%AF%9D%E6%9C%AF-%E7%BB%BF%E5%8F%A3%E6%92%AD%20%C2%B7%20%E7%BA%A2%E9%81%BF%E5%9D%91%20%C2%B7%20%E9%BB%84%E8%BF%BD%E9%97%AE-1E6FD9?style=flat-square)](#三色框)
+[![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-0B3D91?style=flat-square)](#许可)
 
 <table>
 <tr><td align="right"><b>下载</b></td><td align="left">
 
-[仓库 ZIP](https://github.com/CageEcho/howtointerviewbetter/archive/refs/heads/main.zip)
+<a href="https://github.com/CageEcho/howtointerviewbetter/archive/refs/heads/main.zip">仓库 ZIP</a>
 
 </td></tr>
 <tr><td align="right"><b>查阅</b></td><td align="left">
 
-[快速开始](#快速开始) · [目录](#目录) · [正文](book/) · [模板](templates/) · [脱敏样例](examples/示例-某软件公司二面复盘.md)
+<a href="#这套东西是什么">这套东西是什么</a> · <a href="#适合谁">适合谁</a> · <a href="#快速开始">快速开始</a> · <a href="#目录">目录</a> · <a href="book/">正文</a> · <a href="templates/">模板</a> · <a href="examples/示例-某软件公司二面复盘.md">脱敏样例</a>
 
 </td></tr>
 <tr><td align="right"><b>照着做</b></td><td align="left">
 
-[让 AI 照书做复盘（skill）](skills/interview-review/README.md) · [一键建飞书结构](skills/interview-review/feishu-setup.md) · [复盘模板](templates/复盘文档模板.md) · [打分表](templates/打分表.md)
+<a href="skills/interview-review/README.md">让 AI 照书做复盘（skill）</a> · <a href="skills/interview-review/feishu-setup.md">一键建飞书结构</a> · <a href="#一场面试从投递到复盘">从投递到复盘</a> · <a href="#每周节奏">每周节奏</a> · <a href="templates/复盘文档模板.md">复盘模板</a> · <a href="templates/打分表.md">打分表</a>
 
 </td></tr>
 </table>
 
 </div>
 
----
+<table>
+<tr>
+<td width="240" align="center" valign="middle">
+<img src="docs/images/mascot-stage/gxb-hi.png" width="220" alt="鸽小包：一只白色、圆得像包子的鸽子，在打招呼">
+</td>
+<td valign="middle">
+
+<b>鸽小包</b>在这儿。它是这本手册的吉祥物：一只白色、圆得像包子的鸽子。
+
+往下看：这套方法是什么、两条怎么开始的路、十五个飞书板块、一场面试从投递走到复盘、以及绿红黄三色框什么时候用。
+
+</td>
+</tr>
+</table>
+
+<img src="docs/images/divider.png" width="880" alt="">
+
+<img src="docs/images/banners/what.png" width="880" alt="这套东西是什么，适合谁">
+
+## 这套东西是什么
+
+<img src="docs/images/what-who.png" width="880" alt="左边是这套方法的六件事：一个入口、一岗一行、一场一档、三色话术、可量化打分，正文模板和样例各在哪里。右边是适合谁：正在找 AI 产品经理岗位的人，以及只想先做一条的人。">
+
+这是一份面试复盘方法：一个固定入口、一岗一行、一场一档、三色话术、可量化打分。正文在 [book/](book/)，空白模板在 [templates/](templates/)，脱敏样例在 [examples/](examples/)。想让 AI 照着做，用 [skills/interview-review/](skills/interview-review/)。
+
+它不是题库。题库会过期，口径不会。你留下的是同一套问法：这场原话是什么、问题出在哪、下次 60 秒里怎么说、哪个概念不能再混、对方可能怎么追问。下一场打开就能用。
+
+四份东西各管一件事：
+
+| 你打开的 | 它回答 |
+| --- | --- |
+| [book/](book/) | 为什么这样记，反例是什么 |
+| [templates/](templates/) | 空白的复盘、打分表、面试表字段 |
+| [examples/](examples/) | 脱敏之后长什么样 |
+| [skills/interview-review/](skills/interview-review/) | 让助手按上面三份来写，不自己发明格式 |
+
+做法来自面试复盘的整理，不一定贴合每一家公司的流程。分享之前先去掉真实姓名、公司、薪资和链接。发现写错了，欢迎[提 issue](https://github.com/CageEcho/howtointerviewbetter/issues)。
+
+## 适合谁
+
+- 正在找 AI 产品经理岗位，希望每场面试都留下能复习的原话、打分和口播。
+- 只想先做一条的人。三色框、一岗一行、一场一档，单独做哪一条都成立。
+- 想把转写交给助手，让它按同一套口径写完，并列出要回写的三处。
+- 不用飞书、不用某一种转写工具，也可以。方法在 [第 11 章](book/11-隐私权限与复制.md)。
+
+不用全做：这是一份备选单，不是任务清单——挑一两条先用起来就算数。
+
+<img src="docs/images/divider.png" width="880" alt="">
+
+<img src="docs/images/banners/start.png" width="880" alt="快速开始">
 
 ## 快速开始
 
-先把仓库放到本机，后面的命令都在仓库根目录执行：
+<table>
+<tr>
+<td width="180" align="center" valign="middle">
+<img src="docs/images/mascot-stage/gxb-yessir.png" width="160" alt="鸽小包：好的，按这个开始">
+</td>
+<td valign="middle">
+
+先把仓库放到本机，后面的命令都在仓库根目录执行。两条路线挑一条。路线 ① 不装任何东西；路线 ② 给还想让助手往飞书里写的人。
+
+</td>
+</tr>
+</table>
 
 ```bash
 git clone https://github.com/CageEcho/howtointerviewbetter.git
@@ -60,17 +111,28 @@ cd howtointerviewbetter
 - 只建面试表：一个岗位一行，下一轮只改状态。
 - 只做归档：每场面试一份文档，放上转写链接和逐字稿。
 
+<img src="docs/images/banners/routes.png" width="880" alt="两条路线">
+
+<img src="docs/images/routes-compare.png" width="880" alt="路线①零配置：打开公开案例、创建副本、改成你的名字、用熟再删示例。路线②：建应用并授权、先看 dry-run、确认后创建、分享权限自己放。">
+
 ### 路线 ① 零配置：手动复制模板（推荐，大多数同学选这个）
 
 > [!TIP]
 > 不装任何东西、不碰命令行，就能拿到一整套带攻略和示例的飞书结构：
 
-[![👉 打开公开案例](https://img.shields.io/badge/%F0%9F%91%89_%E6%89%93%E5%BC%80%E5%85%AC%E5%BC%80%E6%A1%88%E4%BE%8B-1f6b4a?style=for-the-badge)](https://my.feishu.cn/wiki/KTmswsbhOi3deQk8wUdcDWYcnrf)
+[![👉 打开公开案例](https://img.shields.io/badge/%F0%9F%91%89_%E6%89%93%E5%BC%80%E5%85%AC%E5%BC%80%E6%A1%88%E4%BE%8B-1E6FD9?style=for-the-badge)](https://my.feishu.cn/wiki/KTmswsbhOi3deQk8wUdcDWYcnrf)
 
 1. **打开公开案例**：[**（案例）示例同学-个人面试记录表&复盘**](https://my.feishu.cn/wiki/KTmswsbhOi3deQk8wUdcDWYcnrf)（获得链接即可阅读）。
 2. 在每个页面右上角<strong>「…」→「创建副本」</strong>，位置选**你自己的知识库**（总入口建议最先复制，子页面复制到它下面）。多维表格「面试表」同样「创建副本」。
 3. 把标题里的<strong>「示例同学」全部改成你的名字</strong>（或「学号-姓名」）。
 4. 先照着「（案例）」页面写第一场复盘，用熟后**把带「（案例）」「（示例）」的页面和内容删掉**。
+
+做的时候按这个顺序，不容易把副本建散：
+
+1. 先复制总入口，确认它落在你自己的知识库里。这一份就是以后对外发的那个链接，发出去就不再换。规则见 [第 1 章](book/01-总入口与目录结构.md)。
+2. 再复制子页面，父级选刚刚那份总入口。面试表是多维表格，同样走「创建副本」，不要只是收藏原表。
+3. 标题改完再写内容。没改完就往里填，之后分不清哪些是示例、哪些是你的。
+4. 第一场对照「（案例）」和 [第 12 章](book/12-各板块建设攻略与示例.md) 看每一页该写什么。格式熟了，把案例页和带「（示例）」的块删掉。案例可以留着当参照，不想留再删。
 
 > [!IMPORTANT]
 > 这个链接能打开，前提是仓库作者把案例设成了「互联网上获得链接的人可阅读」。打不开时请在 issue 里告诉作者，或改用路线 ②。
@@ -79,7 +141,28 @@ cd howtointerviewbetter
 
 适合想让 AI 助手直接往你飞书里建、后续还要自动写复盘的同学。准备工作（建应用、开权限、找 space_id、常见报错）见 [feishu-app-setup.md](skills/interview-review/feishu-app-setup.md)。
 
-### 安装 Skill
+这条路的完整七步在下面[「建飞书结构」](#建飞书结构)。和路线 ① 的差别是：文档由脚本在你自己的账号下创建，每页已经写好说明框、建设攻略和（示例）内容；分享权限仍然要你自己开。助手先给 dry-run 计划，你确认之后才创建。
+
+<img src="docs/images/divider.png" width="880" alt="">
+
+<img src="docs/images/banners/skill.png" width="880" alt="安装 Skill，并看它会交出什么">
+
+## 安装 Skill
+
+<table>
+<tr>
+<td width="220" align="center" valign="middle">
+<img src="docs/images/mascot-stage/gxb-heart-eyes.png" width="200" alt="鸽小包：心心眼，准备按手册写复盘">
+</td>
+<td valign="middle">
+
+<a href="skills/interview-review/README.md">让 AI 照书做复盘（skill）</a>
+
+装上之后，把转写链接和逐字稿交给它。它按手册写复盘、打分，并列出要回写的三处。第一次用，对它说「帮我建面试复盘飞书结构」。
+
+</td>
+</tr>
+</table>
 
 <img src="docs/images/skill-install.png" alt="Skill 安装位置：Claude Code 放在 .claude/skills，Codex 放在 .agents/skills，其他助手放在各自的 skills 目录或把 SKILL.md 贴进对话。要复制整份 interview-review 目录。" width="880">
 
@@ -134,11 +217,48 @@ cp -R skills/interview-review .cursor/skills/interview-review
 
 装好后可以直接说「帮我复盘这场面试」，或说「帮我建面试复盘飞书结构」。两种说法走两条不同的流程，下面分开写。
 
-### 建飞书结构
+### 你这样说，它交出这些
+
+<img src="docs/images/skill-io.png" width="880" alt="说法 A 是复盘这一场：交出基本信息、逐题三色框、打分、话术补丁和收尾清单。说法 B 是只建结构：先给 dry-run 计划，确认后才创建，并回读总入口、11 个子文档、存档下 3 份和测试题下 1 份案例。">
+
+| 你说 | 它走哪条 | 你会拿到 |
+| --- | --- | --- |
+| 「帮我复盘这场面试」 | 复盘。不建结构 | 基本信息、逐题三色框、打分、每个卡点一条绿框话术补丁、收尾清单 |
+| 「帮我建面试复盘飞书结构」「初始化面试记录表」「帮我搭面试复盘知识库」 | 建结构。这场不写复盘 | 先是 dry-run 计划；你确认后才创建，然后是标题和链接清单 |
+
+复盘时把这四样给它：转写分享链接、逐字稿 PDF、公司 / 岗位（可以写成「某软件公司 / AI 产品经理」）、轮次和日期。缺了哪一项，它会先让你补。
+
+可以照下面这段说。完整输出长什么样，见后面的[三色框示例](#三色框)。
+
+```text
+请按《AI 产品经理面试复盘手册》复盘这一场。
+
+- 听悟链接：（粘贴你自己的分享链接）
+- 逐字稿：见我附上的 PDF
+- 公司 / 岗位：某软件公司 / AI 产品经理
+- 轮次：二面
+- 日期：某工作日下午
+```
+
+它按 [`templates/复盘文档模板.md`](templates/复盘文档模板.md) 写出这五块：
+
+1. 基本信息。占位栏填完，逐字稿 PDF 在标题下面。
+2. 逐题复盘。每题先写原回答摘录和问题所在，这两栏不加框；然后是三色框。
+3. 打分。按环节判完全到位、合格或不合格，给出合格率、完全到位率、高光和卡点。口径在 [第 5 章](book/05-打分口径.md)，空表在 [`templates/打分表.md`](templates/打分表.md)。
+4. 话术补丁。每个卡点一条能照念的修正，放进绿框。
+5. 收尾清单。面试表只改这一岗的状态，问题汇总只追加问题，话术文档同步口播。
+
+你核对过错字和数字之后，再让它写回这三处，或者自己贴进去。数字以你自己的口径表为准，见 [第 6 章](book/06-话术补丁与数字口径.md)。
+
+<img src="docs/images/divider.png" width="880" alt="">
+
+<img src="docs/images/banners/structure.png" width="880" alt="建飞书结构">
+
+## 建飞书结构
 
 第一次使用时，先在**你自己的**飞书知识库里把架子搭好。之后每场面试都往这个架子里放。文档归你本人，助手先给你计划，你确认之后才创建。
 
-<img src="docs/images/feishu-structure.png" alt="飞书结构：总入口「个人面试记录表与复盘」下面有 9 个子文档。其中面试表是多维表格，面试复盘存档下面另挂一份复盘模板。" width="880">
+<img src="docs/images/feishu-structure.png" alt="飞书结构：总入口「个人面试记录表与复盘」下面 15 个板块。直接子文档 11 个，复盘存档下再挂 3 份，测试题下再挂 1 份案例。面试表是多维表格。" width="880">
 
 图里是简称。脚本创建的标题带前缀：没填学号是「姓名-」，填了学号是「学号-姓名-」。
 
@@ -246,7 +366,42 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 
 接口暂时调不通时，按上面的表手工建。已经有一份自己的结构时，用飞书的「创建副本」，勾选「同时创建子页面的副本」，再把标题前缀改成自己的。本仓库不附带任何飞书模板链接。
 
-### 每场面试后做复盘
+<img src="docs/images/divider.png" width="880" alt="">
+
+<img src="docs/images/banners/journey.png" width="880" alt="从投递到复盘">
+
+## 一场面试从投递到复盘
+
+架子搭好之后，一场面试按这八步走。前面三步在投递和准备，后面五步是这场的复盘。不用一次做完手册里的每一章，做完这八步，这一场就闭环了。
+
+<img src="docs/images/interview-journey.png" width="880" alt="一场面试八步：投递、准备、录音、转写、建档、逐题、打分、回写。回写只改面试表状态、只追加问题、把口播同步进话术文档。">
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#E8F1FD', 'primaryTextColor': '#0B3D91', 'primaryBorderColor': '#1E6FD9', 'lineColor': '#1E6FD9', 'secondaryColor': '#E8F1FD', 'tertiaryColor': '#F4F8FE', 'background': '#ffffff', 'clusterBkg': '#E8F1FD', 'clusterBorder': '#1E6FD9'}}}%%
+flowchart LR
+    A["1 投递"] --> B["2 准备"]
+    B --> C["3 录音"]
+    C --> D["4 转写"]
+    D --> E["5 建档"]
+    E --> F["6 逐题三色框"]
+    F --> G["7 打分"]
+    G --> H["8 回写三处"]
+```
+
+1. **投递。** 面试表加一行，写下公司与团队、投递渠道、投递时间、这份简历的存档链接、当前状态。一个岗位只占这一行。见 [第 2 章](book/02-面试表一岗一行.md)。
+2. **准备。** 打开话术文档里的自我介绍和打招呼语，对一下飞书版简历是不是最新一版。话术全程只保持这一份，见 [第 6 章](book/06-话术补丁与数字口径.md)。
+3. **录音。** 面试当场录下来。用哪一种录音工具都可以。
+4. **转写。** 把分享链接放进复盘模板的那一栏。模板里写的是通义听悟，用别的转写工具也可以，链接放在同一栏。逐字稿 PDF 嵌在「逐字稿」标题正下方。见 [第 3 章](book/03-一场一档与录音转写.md)。
+5. **建档。** 从「复盘模板」复制一份，标题写成这场的公司和轮次，例如「某软件公司（二面）」。时间、面试官、录音链接、逐字稿这些占位，拿到材料就原地填完。
+6. **逐题。** 每题先写原回答摘录和问题所在，这两栏不加框，然后写绿框口播、红框概念、黄框追问。见 [第 4 章](book/04-逐题复盘与三色框.md)，样子见下面的[三色框](#三色框)。
+7. **打分。** 按环节判完全到位、合格或不合格，算出合格率和完全到位率，写下高光和卡点。见 [第 5 章](book/05-打分口径.md)。
+8. **回写三处。** 面试表只改这一岗的状态和备注；问题汇总只追加本场新问题，不写答案；话术文档同步绿框口播。三处不要混在一份里改。见 [第 10 章](book/10-防踩坑清单.md)。
+
+二面、三面不新开一行，只改状态和备注。同一家公司的另一个岗位可以新开一行。状态下拉没有合适选项时，选最接近的，在备注里写清楚。
+
+<img src="docs/images/banners/review.png" width="880" alt="每场面试之后">
+
+## 每场面试后做复盘
 
 <img src="docs/images/review-flow.png" alt="每场面试后的流程：录音转写，逐题复盘，打分，然后回写面试表、问题汇总和话术文档。" width="880">
 
@@ -283,15 +438,52 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 
 你核对过错字和数字之后，再让它写回这三处，或者自己贴进去。
 
-### 三色框
+<img src="docs/images/banners/weekly.png" width="880" alt="每周节奏">
 
-<img src="docs/images/three-color-boxes.png" alt="三色框示例：绿框是可照念的口播，红框是概念避坑，黄框是追问接招和反问。原回答和问题所在不加框。" width="880">
+## 每周节奏
+
+一场的闭环是复盘和打分。一周的闭环再加两步：周日把分数收进周总文档，并确认话术补丁已经回到那一份话术文档。顺序是：每场复盘 → 打分表 → 每周总文档 → 话术补丁。
+
+<img src="docs/images/weekly-rhythm.png" width="880" alt="每周节奏四步：每场复盘，打分表记下合格率和卡点，周日写入周总并找出最低的两个环节，话术补丁同步回话术文档。">
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#E8F1FD', 'primaryTextColor': '#0B3D91', 'primaryBorderColor': '#1E6FD9', 'lineColor': '#1E6FD9', 'secondaryColor': '#E8F1FD', 'tertiaryColor': '#F4F8FE', 'background': '#ffffff'}}}%%
+flowchart LR
+    A["每场复盘"] --> B["打分表"]
+    B --> C["每周总文档"]
+    C --> D["话术补丁"]
+```
+
+1. **每场复盘。** 一场一档。原回答和问题所在不加框，绿红黄三框写完。模板在 [`templates/复盘文档模板.md`](templates/复盘文档模板.md)。
+2. **打分表。** 当场按 10 个环节做三档判定，记下合格率、完全到位率、高光和卡点。空表在 [`templates/打分表.md`](templates/打分表.md)，口径在 [第 5 章](book/05-打分口径.md)。
+3. **每周总文档。** 每周日写一份，挂在「面试复盘存档」下面。把本周每场的总分和等级抄进去，找出合格率最低的 2 个环节，写下周要做的事。写法见 [附录 12](book/12-各板块建设攻略与示例.md)，脱敏示例在 [周总文档](examples/各板块示例/03b-周总文档.md)。
+4. **话术补丁。** 每个卡点一条能照念的修正，放进绿框，同步进全程只保留的那一份话术文档，并标上日期。见 [第 6 章](book/06-话术补丁与数字口径.md)。项目里的数字保持同一张口径表，不要这场一个版本、下周另一个版本。
+
+经验沉淀可以同一周补 1 到 3 条，一句一条，写进「面试经验沉淀」。那是另一份文档，不替代话术补丁。
+
+<img src="docs/images/divider.png" width="880" alt="">
+
+<img src="docs/images/banners/colors.png" width="880" alt="三色框">
+
+## 三色框
+
+<img src="docs/images/three-color-boxes.png" alt="蓝框里的三色框示例：原回答和问题所在不加框。绿框是可照念的口播，红框是概念避坑，黄框是追问接招和反问。" width="880">
 
 颜色一旦固定，复习时就能直接找到要背的那一句。含义以 [第 4 章](book/04-逐题复盘与三色框.md) 为准：
 
 - 绿框：下次能直接说出口的第一人称口播，60 秒内。话术补丁也用绿框。
 - 红框：概念、底层原理、避坑。
 - 黄框：对方可能的追问，以及你最后的反问。
+
+什么时候用、什么时候不用：
+
+| 你手里的内容 | 放哪 |
+| --- | --- |
+| 下次要照着念的第一人称口播，60 秒内 | 绿框 |
+| 这场卡点的修正句，能直接念 | 绿框，作为话术补丁 |
+| 概念、底层原理、说混了的定义、不能踩的红线 | 红框 |
+| 对方可能的追问，以及你要问回去的那一句 | 黄框 |
+| 原回答摘录、问题所在、你对这场的点评 | 不加框 |
 
 飞书里用高亮块：绿 `light-green` / `green`，红 `light-red` / `red`，黄 `light-yellow` / `yellow`。文档工具没有高亮块时，用 🟢 / 🔴 / 🟡 引用块，含义不变。
 
@@ -321,7 +513,9 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 - [ ] 话术文档：把绿框口播同步进去
 ```
 
-### 没有飞书时
+<img src="docs/images/banners/nofeishu.png" width="880" alt="没有飞书时">
+
+## 没有飞书时
 
 方法不绑定飞书，也不绑定某一种转写工具。见 [第 11 章](book/11-隐私权限与复制.md)。
 
@@ -334,7 +528,24 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 
 没有助手也可以照着做。有助手但没有飞书接口时，把逐字稿贴给它，让它按模板在对话里写出复盘，你再复制到自己的文档。
 
+<img src="docs/images/divider.png" width="880" alt="">
+
+<img src="docs/images/banners/faq.png" width="880" alt="常见问题">
+
 ## 常见问题
+
+<table>
+<tr>
+<td width="160" align="center" valign="top">
+<img src="docs/images/mascot-stage/gxb-sleep.png" width="140" alt="鸽小包睡着了。答案都在下面，不用再问第二遍">
+</td>
+<td valign="top">
+
+先看这几条。脚本报错的对照表在 <a href="skills/interview-review/feishu-app-setup.md#三常见报错对照">常见报错对照</a>。
+
+</td>
+</tr>
+</table>
 
 - 想零配置拿到结构：用「快速开始 · 路线 ①」复制公开案例。脚本报错先查 [常见报错对照](skills/interview-review/feishu-app-setup.md#三常见报错对照)。
 
@@ -362,6 +573,8 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 
 **简历 PDF 要单独建一个子文档吗？** 不建。放到总入口里，作为附件。
 
+<img src="docs/images/banners/toc.png" width="880" alt="目录">
+
 ## 目录
 
 1. [总入口与目录结构](book/01-总入口与目录结构.md)：所有资料挂在一份总文档下，这个链接发出去之后就不再更换。
@@ -387,6 +600,8 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 - [各板块脱敏示例（每个页面一份）](examples/各板块示例/)
 - [飞书页面内容源文件（脚本写入用的 XML）](templates/feishu/)
 
+<img src="docs/images/banners/license.png" width="880" alt="许可">
+
 ## 许可
 
 本仓库以 [CC BY 4.0](LICENSE) 发布。你可以转载、改编、商用，同时做三件事：
@@ -397,12 +612,40 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 
 `skills/interview-review/scripts/setup_feishu.py` 随仓库一起提供，用来在你自己的知识库里建结构。它默认只打印计划，不会改分享权限。
 
+<img src="docs/images/divider.png" width="880" alt="">
+
+<img src="docs/images/banners/reward.png" width="880" alt="赞赏与商务合作">
+
 ## 赞赏
 
+<table>
+<tr>
+<td width="200" align="center" valign="middle">
+<img src="docs/images/mascot-stage/gxb-offer.png" width="180" alt="鸽小包抱着一只钱袋">
+</td>
+<td valign="middle">
+
 如果这套复盘方法帮你拿到了面试或 offer，欢迎扫码请我喝杯咖啡，所有内容永久免费。
+
+</td>
+</tr>
+</table>
 
 <img src="docs/images/reward-qrcode.jpg" width="260" alt="赞赏码">
 
 ## 商务合作
 
 📮 zsysabre@163.com
+
+<table>
+<tr>
+<td width="160" align="center">
+<img src="docs/images/mascot-stage/gxb-big-heart.png" width="140" alt="鸽小包抱着一颗大心">
+</td>
+<td valign="middle">
+
+看到这儿就可以去写下一场了。挑一两条先用起来就算数。
+
+</td>
+</tr>
+</table>
