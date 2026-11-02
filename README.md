@@ -9,7 +9,7 @@
 
 不用全做：这是一份备选单，不是任务清单——挑一两条先用起来就算数。
 
-做法来自面试复盘的整理，不一定贴合每一家公司的流程。分享之前先去掉真实姓名、公司、薪资和链接。发现写错了，欢迎[提 issue](https://github.com/CageEcho/HowtoInterviewbetter/issues)。
+做法来自面试复盘的整理，不一定贴合每一家公司的流程。分享之前先去掉真实姓名、公司、薪资和链接。发现写错了，欢迎[提 issue](https://github.com/CageEcho/howtointerviewbetter/issues)。
 
 [![章节](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82-11%20%E7%AB%A0-1f6b4a?style=flat-square)](#目录)
 [![结构](https://img.shields.io/badge/%E7%BB%93%E6%9E%84-%E4%B8%80%E4%B8%AA%E5%85%A5%E5%8F%A3%20%C2%B7%209%20%E4%B8%AA%E5%AD%90%E6%96%87%E6%A1%A3-163028?style=flat-square)](#建飞书结构)
@@ -24,7 +24,7 @@
 <table>
 <tr><td align="right"><b>下载</b></td><td align="left">
 
-[仓库 ZIP](https://github.com/CageEcho/HowtoInterviewbetter/archive/refs/heads/main.zip)
+[仓库 ZIP](https://github.com/CageEcho/howtointerviewbetter/archive/refs/heads/main.zip)
 
 </td></tr>
 <tr><td align="right"><b>查阅</b></td><td align="left">
@@ -48,17 +48,32 @@
 先把仓库放到本机，后面的命令都在仓库根目录执行：
 
 ```bash
-git clone https://github.com/CageEcho/HowtoInterviewbetter.git
-cd HowtoInterviewbetter
+git clone https://github.com/CageEcho/howtointerviewbetter.git
+cd howtointerviewbetter
 ```
 
-不想装 Git，就用上面的 [仓库 ZIP](https://github.com/CageEcho/HowtoInterviewbetter/archive/refs/heads/main.zip)，解压后进入该目录。
+不想装 Git，就用上面的 [仓库 ZIP](https://github.com/CageEcho/howtointerviewbetter/archive/refs/heads/main.zip)，解压后进入该目录。
 
 挑一条就能开始，其余以后再补：
 
 - 只写三色框：把下一场要念的口播写进绿框。
 - 只建面试表：一个岗位一行，下一轮只改状态。
 - 只做归档：每场面试一份文档，放上转写链接和逐字稿。
+
+### 路线 ① 零配置：手动复制模板（推荐，大多数同学选这个）
+
+不装任何东西、不碰命令行，就能拿到一整套带攻略和示例的飞书结构：
+
+1. 打开公开案例：[（案例）示例同学-个人面试记录表&复盘](https://my.feishu.cn/wiki/KTmswsbhOi3deQk8wUdcDWYcnrf)（获得链接即可阅读）。
+2. 在每个页面右上角「…」→「创建副本」，位置选**你自己的知识库**（总入口建议最先复制，子页面复制到它下面）。多维表格「面试表」同样「创建副本」。
+3. 把标题里的「示例同学」全部改成你的名字（或「学号-姓名」）。
+4. 先照着「（案例）」页面写第一场复盘，用熟后把带「（案例）」「（示例）」的页面和内容删掉。
+
+> 这个链接能打开，前提是仓库作者把案例设成了「互联网上获得链接的人可阅读」。打不开时请在 issue 里告诉作者，或改用路线 ②。
+
+### 路线 ② 进阶：用脚本一键建（需要飞书自建应用）
+
+适合想让 AI 助手直接往你飞书里建、后续还要自动写复盘的同学。准备工作（建应用、开权限、找 space_id、常见报错）见 [feishu-app-setup.md](skills/interview-review/feishu-app-setup.md)。
 
 ### 安装 Skill
 
@@ -317,6 +332,8 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 
 ## 常见问题
 
+- 想零配置拿到结构：用「快速开始 · 路线 ①」复制公开案例。脚本报错先查 [常见报错对照](skills/interview-review/feishu-app-setup.md#三常见报错对照)。
+
 **要十一章都做完吗？** 不用。挑一两条先用起来就算数。三色框、一岗一行、一场一档，单独做哪一条都成立。
 
 **必须用飞书和听悟吗？** 不用。飞书是一键建结构时的默认落点，听悟是模板里录音链接那一栏的例子。任意文档工具加任意转写工具，步骤相同。
@@ -370,7 +387,7 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 
 本仓库以 [CC BY 4.0](LICENSE) 发布。你可以转载、改编、商用，同时做三件事：
 
-- 署名：「AI 产品经理面试复盘手册」，并附上仓库链接 https://github.com/CageEcho/HowtoInterviewbetter
+- 署名：「AI 产品经理面试复盘手册」，并附上仓库链接 https://github.com/CageEcho/howtointerviewbetter
 - 附上许可证链接 https://creativecommons.org/licenses/by/4.0/
 - 改过的，写明改了什么。
 

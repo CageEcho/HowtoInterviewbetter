@@ -2,6 +2,9 @@
 
 触发：用户说「帮我建面试复盘飞书结构」「初始化面试记录表」「帮我搭面试复盘知识库」。
 
+## 路线 ①（推荐，零配置）：手动复制模板
+如果同学不想配置飞书应用，AI 应先推荐这条：打开公开案例 https://my.feishu.cn/wiki/KTmswsbhOi3deQk8wUdcDWYcnrf → 各页面「…」→「创建副本」到自己的知识库 → 把「示例同学」改成自己的名字 → 熟悉后删掉「（案例）」「（示例）」页面。链接需作者保持「互联网获得链接可阅读」。下面是路线 ②（脚本）。
+
 ## 0. 前提
 - AI 助手能调用飞书开放平台接口：官方命令行 `lark-cli`，或飞书 MCP / 插件，或直接调 OpenAPI。
 - 同学用**自己的账号**在 https://open.feishu.cn/app 创建自建应用，并完成**用户授权**（user_access_token），这样建出的文档归同学本人所有。
@@ -10,6 +13,7 @@
   - 云文档：`docx:document`（创建/编辑文档）
   - 多维表格：`bitable:app`（创建表格、字段）；`base:record:create` / `base:record:retrieve`（写示例行、删默认空行，缺了会跳过并提示）
   - 可选：`drive:drive`（上传逐字稿 PDF）
+- 建应用、发版、加知识库成员、找 space_id、常见报错的详细步骤见 [feishu-app-setup.md](feishu-app-setup.md)。删除默认空行还需 `base:record:delete`。
 - 不要把任何 App ID / Secret / token 写进文档或聊天记录。
 
 ## 1. 先问清楚
