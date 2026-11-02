@@ -32,20 +32,13 @@
 
 </div>
 
-<table>
-<tr>
-<td width="240" align="center" valign="middle">
-<img src="docs/images/mascot-stage/gxb-hi.png" width="220" alt="鸽小包：一只白色、圆得像包子的鸽子，在打招呼">
-</td>
-<td valign="middle">
+<img src="docs/images/mascot/gxb-hi.png" width="180" align="left" alt="鸽小包：一只白色、圆得像包子的鸽子，在打招呼">
 
 <b>鸽小包</b>在这儿。它是这本手册的吉祥物：一只白色、圆得像包子的鸽子。
 
-往下看：这套方法是什么、两条怎么开始的路、十五个飞书板块、一场面试从投递走到复盘、以及绿红黄三色框什么时候用。
+往下看：这套方法是什么、两条怎么开始的路、十五个飞书板块、一场面试从投递走到复盘，以及绿红黄三色框什么时候用。
 
-</td>
-</tr>
-</table>
+<br clear="left">
 
 <img src="docs/images/divider.png" width="880" alt="">
 
@@ -85,18 +78,11 @@
 
 ## 快速开始
 
-<table>
-<tr>
-<td width="180" align="center" valign="middle">
-<img src="docs/images/mascot-stage/gxb-yessir.png" width="160" alt="鸽小包：好的，按这个开始">
-</td>
-<td valign="middle">
+<img src="docs/images/mascot/gxb-yessir.png" width="120" align="left" alt="鸽小包：好的，按这个开始">
 
 先把仓库放到本机，后面的命令都在仓库根目录执行。两条路线挑一条。路线 ① 不装任何东西；路线 ② 给还想让助手往飞书里写的人。
 
-</td>
-</tr>
-</table>
+<br clear="left">
 
 ```bash
 git clone https://github.com/CageEcho/howtointerviewbetter.git
@@ -149,20 +135,13 @@ cd howtointerviewbetter
 
 ## 安装 Skill
 
-<table>
-<tr>
-<td width="220" align="center" valign="middle">
-<img src="docs/images/mascot-stage/gxb-heart-eyes.png" width="200" alt="鸽小包：心心眼，准备按手册写复盘">
-</td>
-<td valign="middle">
+<img src="docs/images/mascot/gxb-heart-eyes.png" width="180" align="left" alt="鸽小包：心心眼，准备按手册写复盘">
 
 <a href="skills/interview-review/README.md">让 AI 照书做复盘（skill）</a>
 
 装上之后，把转写链接和逐字稿交给它。它按手册写复盘、打分，并列出要回写的三处。第一次用，对它说「帮我建面试复盘飞书结构」。
 
-</td>
-</tr>
-</table>
+<br clear="left">
 
 <img src="docs/images/skill-install.png" alt="Skill 安装位置：Claude Code 放在 .claude/skills，Codex 放在 .agents/skills，其他助手放在各自的 skills 目录或把 SKILL.md 贴进对话。要复制整份 interview-review 目录。" width="880">
 
@@ -534,18 +513,11 @@ flowchart LR
 
 ## 常见问题
 
-<table>
-<tr>
-<td width="160" align="center" valign="top">
-<img src="docs/images/mascot-stage/gxb-sleep.png" width="140" alt="鸽小包睡着了。答案都在下面，不用再问第二遍">
-</td>
-<td valign="top">
+<img src="docs/images/mascot/gxb-sleep.png" width="120" align="left" alt="鸽小包睡着了。答案都在下面，不用再问第二遍">
 
 先看这几条。脚本报错的对照表在 <a href="skills/interview-review/feishu-app-setup.md#三常见报错对照">常见报错对照</a>。
 
-</td>
-</tr>
-</table>
+<br clear="left">
 
 - 想零配置拿到结构：用「快速开始 · 路线 ①」复制公开案例。脚本报错先查 [常见报错对照](skills/interview-review/feishu-app-setup.md#三常见报错对照)。
 
@@ -618,18 +590,11 @@ flowchart LR
 
 ## 赞赏
 
-<table>
-<tr>
-<td width="200" align="center" valign="middle">
-<img src="docs/images/mascot-stage/gxb-offer.png" width="180" alt="鸽小包抱着一只钱袋">
-</td>
-<td valign="middle">
+<img src="docs/images/mascot/gxb-offer.png" width="180" align="left" alt="鸽小包抱着一只钱袋">
 
 如果这套复盘方法帮你拿到了面试或 offer，欢迎扫码请我喝杯咖啡，所有内容永久免费。
 
-</td>
-</tr>
-</table>
+<br clear="left">
 
 <img src="docs/images/reward-qrcode.jpg" width="260" alt="赞赏码">
 
@@ -637,15 +602,8 @@ flowchart LR
 
 📮 zsysabre@163.com
 
-<table>
-<tr>
-<td width="160" align="center">
-<img src="docs/images/mascot-stage/gxb-big-heart.png" width="140" alt="鸽小包抱着一颗大心">
-</td>
-<td valign="middle">
+<img src="docs/images/mascot/gxb-big-heart.png" width="120" align="left" alt="鸽小包抱着一颗大心">
 
 看到这儿就可以去写下一场了。挑一两条先用起来就算数。
 
-</td>
-</tr>
-</table>
+<br clear="left">
