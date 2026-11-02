@@ -68,8 +68,8 @@ cd howtointerviewbetter
 [![👉 打开公开案例](https://img.shields.io/badge/%F0%9F%91%89_%E6%89%93%E5%BC%80%E5%85%AC%E5%BC%80%E6%A1%88%E4%BE%8B-1f6b4a?style=for-the-badge)](https://my.feishu.cn/wiki/KTmswsbhOi3deQk8wUdcDWYcnrf)
 
 1. **打开公开案例**：[**（案例）示例同学-个人面试记录表&复盘**](https://my.feishu.cn/wiki/KTmswsbhOi3deQk8wUdcDWYcnrf)（获得链接即可阅读）。
-2. 在每个页面右上角**「…」→「创建副本」**，位置选**你自己的知识库**（总入口建议最先复制，子页面复制到它下面）。多维表格「面试表」同样「创建副本」。
-3. 把标题里的**「示例同学」全部改成你的名字**（或「学号-姓名」）。
+2. 在每个页面右上角<strong>「…」→「创建副本」</strong>，位置选**你自己的知识库**（总入口建议最先复制，子页面复制到它下面）。多维表格「面试表」同样「创建副本」。
+3. 把标题里的<strong>「示例同学」全部改成你的名字</strong>（或「学号-姓名」）。
 4. 先照着「（案例）」页面写第一场复盘，用熟后**把带「（案例）」「（示例）」的页面和内容删掉**。
 
 > [!IMPORTANT]
