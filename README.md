@@ -584,19 +584,16 @@ flowchart LR
 
 ## 赞赏
 
-<img src="docs/images/mascot/gxb-offer.png" width="180" alt="鸽小包抱着一只钱袋">
-
-如果这套复盘方法帮你拿到了面试或 offer，欢迎扫码请我喝杯咖啡，所有内容永久免费。
-
-
-<img src="docs/images/reward-qrcode.jpg" width="260" alt="赞赏码">
+<p align="center">
+<img src="docs/images/reward-row.png" width="880" alt="如果这套复盘方法帮你拿到了面试或 offer，欢迎扫码请我喝杯咖啡，所有内容永久免费。">
+</p>
 
 ## 商务合作
 
-📮 zsysabre@163.com
+<p align="center">📮 zsysabre@163.com</p>
 
-<img src="docs/images/mascot/gxb-big-heart.png" width="120" alt="鸽小包抱着一颗大心">
-
-看到这儿就可以去写下一场了。挑一两条先用起来就算数。
+<p align="center">
+<img src="docs/images/coop-row.png" width="640" alt="看到这儿就可以去写下一场了。挑一两条先用起来就算数。">
+</p>
 
 </div>
