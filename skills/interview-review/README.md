@@ -73,7 +73,7 @@ cp -R skills/interview-review .cursor/skills/interview-review
 
 ## 第一次：建飞书结构
 
-<img src="../../docs/images/feishu-structure.png" alt="总入口一份，下面 9 个子文档。面试表是多维表格，复盘存档下挂一份复盘模板。" width="880">
+<img src="../../docs/images/feishu-structure.png" alt="总入口一份，下面 15 个板块：11 个直接子文档，复盘存档下 3 份，测试题下 1 份案例。面试表是多维表格。" width="880">
 
 <img src="../../docs/images/feishu-setup-flow.png" alt="建结构七步：自建应用、权限、用户授权、告诉 AI、dry-run、确认后创建、权限自己放开。" width="880">
 
@@ -92,7 +92,7 @@ cp -R skills/interview-review .cursor/skills/interview-review
 先只给我 dry-run 计划，我确认后再创建。
 ```
 
-5. 核对计划：总入口、9 个子文档、复盘模板，以及面试表 10 个字段。同名的会标成跳过。
+5. 核对计划：总入口、11 个子文档、复盘存档下的 3 份、测试题下的 1 份案例，以及面试表 10 个字段。同名的会标成跳过。
 6. 回复「按这个计划创建」。助手回读核对后，给你一份链接清单。链接是你自己的，不要提交进这个公开仓库。
 7. 助手不会改分享权限。你先确认没有真实薪资、面试官姓名、公司内部信息和录音链接，再自己设为「获得链接的人可编辑」，并对子页面生效。
 
@@ -137,7 +137,7 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 - 每个卡点一条绿框话术补丁。
 - 收尾：面试表只改状态，问题汇总只记问题，话术文档同步口播。
 
-<img src="../../docs/images/three-color-boxes.png" alt="绿框放可照念的口播，红框放概念避坑，黄框放追问接招和反问。" width="880">
+<img src="../../docs/images/three-color-boxes.png" alt="蓝框里的三色框：绿框放可照念的口播，红框放概念避坑，黄框放追问接招和反问。原回答和问题所在不加框。" width="880">
 
 飞书高亮块的颜色：绿 `light-green` / `green`，红 `light-red` / `red`，黄 `light-yellow` / `yellow`。没有高亮块时用 🟢 / 🔴 / 🟡 引用块。
 
