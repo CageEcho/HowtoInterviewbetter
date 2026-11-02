@@ -1,0 +1,18 @@
+{
+  "table_name": "面试表",
+  "rule": "一岗一行：一个岗位只占一行，二面/三面只改「状态」，不新建行；同公司不同岗位可新建行",
+  "fields": [
+    {"field_name": "公司&团队", "type": 1, "ui_type": "Text", "primary": true},
+    {"field_name": "JD&面试记录", "type": 15, "ui_type": "Url"},
+    {"field_name": "base", "type": 4, "ui_type": "MultiSelect",
+     "options": ["北京","上海","广州","深圳","成都","杭州","武汉","西安","南京","重庆","厦门","宁波","黑龙江","三亚","金华","苏州","长沙"]},
+    {"field_name": "状态", "type": 3, "ui_type": "SingleSelect",
+     "options": ["未投递","已投递","待一面","一面过","待二面","二面过","待终面","终面过","待offer","得offer","一面挂","二面挂","三面挂"]},
+    {"field_name": "下一场面试时间", "type": 5, "ui_type": "DateTime"},
+    {"field_name": "面试方式", "type": 3, "ui_type": "SingleSelect", "options": ["现场面试","视频面试","电话面试"]},
+    {"field_name": "投递时间", "type": 5, "ui_type": "DateTime"},
+    {"field_name": "投递渠道", "type": 15, "ui_type": "Url"},
+    {"field_name": "投递的简历存档链接", "type": 15, "ui_type": "Url"},
+    {"field_name": "父记录", "type": 18, "ui_type": "SingleLink", "note": "关联本表自身，用于同公司多岗位分组；可选"}
+  ]
+}
