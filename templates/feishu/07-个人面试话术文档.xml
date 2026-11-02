@@ -1,0 +1,11 @@
+<title>{P}-个人面试话术文档（自我介绍+打招呼语）</title>
+<callout emoji="🎹" background-color="light-orange" border-color="orange"><p>只有一个文档：按照问题编辑个人话术。每条话术都是可以直接照念的第一人称口播。</p><p>⚠️ 每场复盘产生的话术补丁，都要回写到这里对应的问题下，并标注版本日期。</p></callout>
+<callout emoji="💡" background-color="light-blue" border-color="blue"><p><b>建设攻略</b></p><ol><li>先写两套自我介绍：通用版（90 秒）和垂类定制版。</li><li>写 BOSS 打招呼语：开头说匹配点，中间 2 个数字结果，结尾给行动。</li><li>按「开场必问 → 项目 → 方法论 → AI 专业 → 离职/薪资」分组写高频问题。</li><li>每条话术控制在 60 秒内，用绿色框；概念和红线用红色框。</li></ol></callout>
+<h1>（示例）一、开场必问</h1>
+<h2>1.1 自我介绍（通用版，90 秒）</h2>
+<callout emoji="🟢" background-color="light-green" border-color="green"><p>面试官您好，我有 5 年产品经验，最近一年专注大模型应用落地。在上一家公司我主导了一个智能方案生成平台，把顾问出方案的时间从 2 小时降到 20 分钟，方案可用率从 55% 提升到 82%。我比较擅长两件事：一是把业务流程拆成可配置的 Agent 工作流，二是搭评测集用指标驱动迭代。这和贵司岗位里提到的工作流编排和效果评估比较匹配，希望有机会详细聊。</p></callout>
+<h2>1.2 离职原因（20 秒）</h2>
+<callout emoji="🟢" background-color="light-green" border-color="green"><p>上家公司业务调整，团队整体变动。我希望继续深耕 AI 产品落地，所以在找能长期做 Agent 方向的团队。</p></callout>
+<callout emoji="🔴" background-color="light-red" border-color="red"><p>红线：不抱怨前公司；不讲超过 30 秒；不同场次说法一致。</p></callout>
+<h1>（示例）二、BOSS 打招呼语</h1>
+<callout emoji="🟢" background-color="light-green" border-color="green"><p>您好，我是 5 年经验的 AI 产品经理，做过大模型工作流和 RAG 知识库从 0 到 1 落地，把业务效率提升了 6 倍。看到贵司在招 Agent 方向产品，和我的经历很匹配，方便的话发您简历看看？</p></callout>

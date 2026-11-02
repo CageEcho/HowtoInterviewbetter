@@ -1,0 +1,10 @@
+<title>{P}-穷尽面试问题汇总（以问题为单位）</title>
+<callout emoji="🎹" background-color="light-orange" border-color="orange"><p>只有一个文档：以「公司-面试场次」为最小单位，总结全部面试问题，<b>只放问题</b>，不写答案（答案在话术文档）。</p></callout>
+<callout emoji="💡" background-color="light-blue" border-color="blue"><p><b>建设攻略</b></p><ol><li>每场面试后，从逐字稿里把面试官的问题原样抄过来，按出现顺序编号。</li><li>每个问题后标类型：开场 / 项目 / 指标 / 业务 / AI 专业 / 场景题 / 流程 / 离职 / 薪资 / 反问。</li><li>满 5 场后在顶部做统计：哪类问题最多、哪类最常丢分。</li><li>发现同一问题在不同场次答法不一致，在「口径核对」里登记。</li></ol></callout>
+<h1>（示例）一、总体规律</h1>
+<table><thead><tr><th background-color="light-gray"><p>问题类型</p></th><th background-color="light-gray"><p>出现次数</p></th><th background-color="light-gray"><p>丢分次数</p></th></tr></thead><tbody><tr><td><p>项目深挖</p></td><td><p>14</p></td><td><p>3</p></td></tr><tr><td><p>AI 专业（RAG/评测/Agent）</p></td><td><p>9</p></td><td><p>4</p></td></tr><tr><td><p>场景/设计题</p></td><td><p>5</p></td><td><p>3</p></td></tr></tbody></table>
+<h1>（示例）二、逐场问题</h1>
+<h2>1. 某软件公司（二面）-AI 产品经理</h2>
+<ol><li>做一下自我介绍。【开场】</li><li>你主项目的准确率是怎么算的？【指标】</li><li>如果让你在现有系统里加 AI，你会怎么加？【场景题】</li><li>为什么离开上家公司？【离职】</li><li>你有什么想问我的？【反问】</li></ol>
+<h2>2. 某金融科技公司（一面）-AI 产品经理</h2>
+<ol><li>RAG 的切分策略你们怎么定的？【AI 专业】</li><li>模型评测集怎么构建？【AI 专业】</li></ol>

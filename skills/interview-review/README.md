@@ -155,7 +155,8 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 | --- | --- |
 | [`SKILL.md`](SKILL.md) | 复盘步骤和约束 |
 | [`feishu-setup.md`](feishu-setup.md) | 建飞书结构的节点、权限和幂等规则 |
-| [`scripts/setup_feishu.py`](scripts/setup_feishu.py) | 默认同名跳过的创建脚本，默认只打印计划 |
+| [`scripts/setup_feishu.py`](scripts/setup_feishu.py) | 默认同名跳过的创建脚本，默认只打印计划；建好的每页都带说明框、攻略和示例 |
+| [`../../templates/feishu/`](../../templates/feishu/) | 脚本写进每个飞书页面的内容（飞书 XML） |
 | [`templates/复盘文档模板.md`](../../templates/复盘文档模板.md) | 每场复盘的版式 |
 | [`templates/面试表Bitable字段定义.json`](../../templates/面试表Bitable字段定义.json) | 面试表字段 |
 | [`book/05-打分口径.md`](../../book/05-打分口径.md) | 打分 |

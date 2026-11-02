@@ -1,0 +1,4 @@
+<title>{P}-测试题复盘（一次测试题一个文档）</title>
+<callout emoji="🎹" background-color="light-orange" border-color="orange"><p><b>新建子页面，一个测试题就一个文档。</b></p><p>放标注好答案的版本：题目原文 → 你的作答 → 标准思路 → 差距。</p><p>⚠️ 测试题常带公司内部材料，存档前先删掉公司名和内部数据。</p></callout>
+<callout emoji="💡" background-color="light-blue" border-color="blue"><p><b>建设攻略</b></p><ol><li>在本页左侧目录点「+」新建子页面，命名「（公司类型）（轮次）-测试题主题」。</li><li>贴题目原文（去掉内部信息），写明限时与提交形式。</li><li>贴你的作答；再用「🟢标准答题思路 / 🔴扣分点 / 🟡面试官可能追问」三色框标注。</li><li>最后写一句「下次遇到同类题我先做什么」。</li></ol></callout>
+<p>子页面：（案例）某大厂AI助手（一面）-竞品分析测试题</p>
