@@ -396,3 +396,13 @@ python3 skills/interview-review/scripts/setup_feishu.py \
 - 改过的，写明改了什么。
 
 `skills/interview-review/scripts/setup_feishu.py` 随仓库一起提供，用来在你自己的知识库里建结构。它默认只打印计划，不会改分享权限。
+
+## 赞赏
+
+如果这套复盘方法帮你拿到了面试或 offer，欢迎扫码请我喝杯咖啡，所有内容永久免费。
+
+<img src="docs/images/reward-qrcode.jpg" width="260" alt="赞赏码">
+
+## 商务合作
+
+📮 zsysabre@163.com
