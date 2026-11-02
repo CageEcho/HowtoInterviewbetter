@@ -1,0 +1,11 @@
+<title>{P}-个人简历在线综合</title>
+<callout emoji="🎹" background-color="light-orange" border-color="orange"><p>1. 这是简历的「固定入口」：所有版本的简历、改动记录、投递数据都汇总在这里。</p><p>2. 文档链接提交后不改；可以增添内容，但文档本身不可删除。</p><p>⚠️ 新版本往上加，旧版本保留在下面，方便对比改了什么。</p></callout>
+<callout emoji="💡" background-color="light-blue" border-color="blue"><p><b>建设攻略</b></p><ol><li>第一块放「当前在投版本」：版本号 + 日期 + 适用岗位方向 + PDF 附件。</li><li>第二块放「版本变更记录」表：每次改简历记一行（改了什么、为什么改、改完回复率变化）。</li><li>第三块放「投递数据」：每天投递量、回复数、约面数，用于判断简历是否需要改。</li><li>第四块放「JD 高频词」：从 30 份目标 JD 里提炼的关键词，改简历时逐条对照。</li></ol></callout>
+<h1>（示例）当前在投版本</h1>
+<table><thead><tr><th background-color="light-gray"><p>版本</p></th><th background-color="light-gray"><p>日期</p></th><th background-color="light-gray"><p>方向</p></th><th background-color="light-gray"><p>附件</p></th></tr></thead><tbody><tr><td><p>V2.1</p></td><td><p>第 2 周周一</p></td><td><p>B 端 AI Agent 产品经理</p></td><td><p>（拖入 PDF）</p></td></tr><tr><td><p>V2.1-垂类版</p></td><td><p>第 2 周周一</p></td><td><p>某垂直行业 AI 产品</p></td><td><p>（拖入 PDF）</p></td></tr></tbody></table>
+<h1>（示例）版本变更记录</h1>
+<table><thead><tr><th background-color="light-gray"><p>版本</p></th><th background-color="light-gray"><p>改了什么</p></th><th background-color="light-gray"><p>为什么改</p></th><th background-color="light-gray"><p>效果</p></th></tr></thead><tbody><tr><td><p>V1.0 → V2.0</p></td><td><p>个人优势从 6 条压到 4 条；项目经历改成「动词+项目+JD关键词+数据结果」</p></td><td><p>HR 初筛只看约 5 秒，原版像流水账</p></td><td><p>回复率 3% → 7%</p></td></tr><tr><td><p>V2.0 → V2.1</p></td><td><p>补上 RAG / 模型评测关键词；第一个项目加业务指标</p></td><td><p>一面多次被问「效果怎么衡量」</p></td><td><p>约面数上升</p></td></tr></tbody></table>
+<h1>（示例）投递数据</h1>
+<table><thead><tr><th background-color="light-gray"><p>日期</p></th><th background-color="light-gray"><p>投递</p></th><th background-color="light-gray"><p>回复</p></th><th background-color="light-gray"><p>约面</p></th></tr></thead><tbody><tr><td><p>周一</p></td><td><p>300</p></td><td><p>18</p></td><td><p>3</p></td></tr></tbody></table>
+<h1>（示例）JD 高频词</h1>
+<p>Agent、LLM、工作流编排、RAG、Prompt 工程、模型评测、数据分析、SQL、需求文档（PRD）、跨部门协作</p>

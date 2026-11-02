@@ -1,0 +1,10 @@
+<title>{P}-个人战略（1v1复盘+面试策略）</title>
+<callout emoji="🎹" background-color="light-orange" border-color="orange"><p>1. 按复盘要求，详细复盘 1v1 辅导后的个人面试战略，<b>所需项目详细写到文档开头</b>。</p><p>⚠️ 此文档的过程可以用 AI，但最终的文档编写要<span text-color="red">全部手打</span>，禁止直接复制 AI 输出。</p></callout>
+<callout emoji="💡" background-color="light-blue" border-color="blue"><p><b>建设攻略</b></p><ol><li>我的信息：年限、行业、核心能力、短板。</li><li>老师首次对焦：老师给你的定位和要补的点，原话记录。</li><li>过往项目：每个项目一段（背景-我做了什么-结果），主项目放第一。</li><li>一句话定位：面试开场就能说的一句话。</li><li>面试策略：投什么岗位、讲哪个项目、避开什么话题。</li><li>可能被问的问题 + 反问面试官的问题 + 开场白。</li></ol></callout>
+<h1>（示例）一句话定位</h1>
+<callout emoji="🟢" background-color="light-green" border-color="green"><p>我是一个有 5 年产品经验、最近一年专注大模型落地的 B 端 AI 产品经理，擅长把业务流程拆成可配置的 Agent 工作流并用评测指标驱动迭代。</p></callout>
+<h1>（示例）面试策略</h1>
+<ul><li>主投：B 端 AI Agent / 工作流方向；次投：垂直行业 AI 产品。</li><li>主讲项目：智能方案生成平台（数据最完整）；备讲：一个比赛项目（体现 0-1 能力）。</li><li>避开：不主动讲与目标岗位无关的早期经历。</li></ul>
+<callout emoji="🔴" background-color="light-red" border-color="red"><p>红线：项目时间线、团队人数、核心数字在所有场次保持同一口径。</p></callout>
+<h1>（示例）反问面试官</h1>
+<callout emoji="🟡" background-color="light-yellow" border-color="yellow"><p>1. 这个岗位入职后前 3 个月最希望看到的成果是什么？ 2. 团队现在最大的瓶颈是数据、模型还是流程？</p></callout>

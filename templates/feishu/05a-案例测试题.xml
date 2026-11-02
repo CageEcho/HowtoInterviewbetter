@@ -1,0 +1,12 @@
+<title>（案例）某大厂AI助手（一面）-竞品分析测试题</title>
+<callout emoji="🎹" background-color="light-orange" border-color="orange"><p>已脱敏案例：照这个结构写你自己的测试题复盘。</p></callout>
+<h1>题目</h1>
+<p>限时 48 小时，提交一份 PDF：选两款主流 AI 助手产品做竞品分析，并给出我方产品下一季度最值得做的 1 个功能。</p>
+<h1>我的作答（摘要）</h1>
+<p>从功能、体验、商业化三个维度对比了两款产品，最后建议做「多文档问答」。</p>
+<h1>标注</h1>
+<callout emoji="🟢" background-color="light-green" border-color="green"><p>标准答题思路：先定分析目的（为哪个决策服务）→ 选对比维度（用户场景、核心能力、增长、商业化）→ 用数据或体验截图做证据 → 收敛成 1 个功能，并给出目标用户、核心指标、MVP 范围和验证方式。</p></callout>
+<callout emoji="🔴" background-color="light-red" border-color="red"><p>扣分点：只罗列功能没有结论；建议的功能没写指标；把公开数据和个人猜测混在一起没标来源。</p></callout>
+<callout emoji="🟡" background-color="light-yellow" border-color="yellow"><p>面试官可能追问：为什么是这个功能而不是另一个？上线后看哪个指标判断成功？如果资源只有一半怎么砍？</p></callout>
+<h1>下次怎么做</h1>
+<p>先写一页结论，再补分析；每个结论后面放证据和来源。</p>

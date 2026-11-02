@@ -1,0 +1,25 @@
+<title>复盘模板</title>
+<callout emoji="🎹" background-color="light-orange" border-color="orange"><p>复制本模板新建一场复盘：「…」→「创建副本」，改标题后原地填写所有【】占位。</p></callout>
+<h1>【场次编号】【日期】【公司类型】（【轮次】）复盘</h1>
+<h2>基本信息</h2>
+<table><tbody><tr><td><p>本次面试时间</p></td><td><p>【填写】</p></td><td><p>面试官职位</p></td><td><p>【如 业务组长】</p></td></tr><tr><td><p>通义听悟录音链接</p></td><td><p>【听悟分享链接】</p></td><td><p>时长</p></td><td><p>【】</p></td></tr></tbody></table>
+<h2>通义听悟导出的录音逐字稿（PDF）</h2>
+<p>【在此嵌入】</p>
+<h2>公司与业务情报</h2>
+<p>【业务、团队规模、岗位真实工作内容】</p>
+<h2>问题复盘（逐题）</h2>
+<h3>Q1 【问题】（【时间戳】）</h3>
+<ul><li>原回答摘录：【逐字稿原话，不加框】</li><li>问题所在：【不加框】</li></ul>
+<callout emoji="🟢" background-color="light-green" border-color="green"><p>建议回答（可直接照念的第一人称口播，60 秒内）：【】</p></callout>
+<callout emoji="🔴" background-color="light-red" border-color="red"><p>概念解释 / 底层原理 / 避坑红线：【】</p></callout>
+<callout emoji="🟡" background-color="light-yellow" border-color="yellow"><p>深挖追问接招 / 反问话术：【】</p></callout>
+<h2>高光 / 卡点</h2>
+<p>【】</p>
+<h2>话术补丁</h2>
+<callout emoji="🟢" background-color="light-green" border-color="green"><p>【每个卡点一条可照念的修正版口播】</p></callout>
+<h2>打分（见打分表）</h2>
+<p>总分：__/100　等级：__　合格率：__　完全到位率：__</p>
+<h2>收尾检查</h2>
+<checkbox done="false">面试表状态已回写</checkbox>
+<checkbox done="false">问题汇总已追加</checkbox>
+<checkbox done="false">话术文档已同步</checkbox>

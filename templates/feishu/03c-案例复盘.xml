@@ -1,0 +1,21 @@
+<title>（案例）某软件公司（二面）-AI 产品经理</title>
+<callout emoji="🎹" background-color="light-orange" border-color="orange"><p>这是一份已脱敏的完整案例，照着它的颗粒度写你自己的复盘。</p></callout>
+<h1>03-周一-某软件公司（二面）复盘</h1>
+<h2>基本信息</h2>
+<table><tbody><tr><td><p>本次面试时间</p></td><td><p>周一 14:00</p></td><td><p>面试官职位</p></td><td><p>产品总监</p></td></tr><tr><td><p>通义听悟录音链接</p></td><td><p>（你的听悟分享链接）</p></td><td><p>时长</p></td><td><p>45 分钟</p></td></tr></tbody></table>
+<h2>公司与业务情报</h2>
+<p>做企业服务软件，在把传统工单系统升级成 AI 派单；团队 6 个产品，岗位要独立负责一个 Agent 模块。</p>
+<h2>问题复盘（逐题）</h2>
+<h3>Q1 如果让你在现有系统里加 AI，你会怎么加？（12:30）</h3>
+<ul><li>原回答摘录：「可以先加一个智能客服，然后……也可以做推荐……」</li><li>问题所在：想到哪说到哪，没有框架，也没说先做哪个。</li></ul>
+<callout emoji="🟢" background-color="light-green" border-color="green"><p>建议回答：我会分三层加。第一层是配置层，让业务人员用自然语言配规则；第二层是派单和履约层，用模型做意图识别和自动分派，这是最先上线的，因为工单量大、效果好量化；第三层是运营层，做异常预警和周报自动生成。上线顺序是先派单、再配置、最后运营，每一层都先定一个指标，比如派单准确率到 90% 再放量。</p></callout>
+<callout emoji="🔴" background-color="light-red" border-color="red"><p>概念 / 避坑：「加 AI」不是加一个聊天框。先讲业务环节，再讲模型在哪个环节替代人工；涉及客户数据时要讲合规围栏（脱敏、权限、人工兜底）。</p></callout>
+<callout emoji="🟡" background-color="light-yellow" border-color="yellow"><p>追问接招：面试官可能问「准确率不到 90% 怎么办」→ 答：低置信度转人工 + 错误样本回流评测集，每周迭代。反问：「这个模块现在最大的瓶颈是数据还是流程？」</p></callout>
+<h2>高光 / 卡点</h2>
+<p>高光：项目数字讲得清楚。卡点：场景题没有分层、离职原因讲了 2 分钟。</p>
+<h2>打分</h2>
+<p>总分：75/100　等级：B　合格率：83%　完全到位率：33%</p>
+<h2>收尾检查</h2>
+<checkbox done="true">面试表状态已回写</checkbox>
+<checkbox done="true">问题汇总已追加</checkbox>
+<checkbox done="true">话术文档已同步</checkbox>
