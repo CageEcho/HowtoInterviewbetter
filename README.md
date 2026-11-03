@@ -69,7 +69,12 @@
 
 ## 快速开始
 
-<img src="docs/images/mascot-rows/yessir.png" width="839" alt="先把仓库放到本机，后面的命令都在仓库根目录执行。两条路线挑一条。路线 ① 不装任何东西；路线 ② 给还想让助手往飞书里写的人。">
+<p><img src="docs/images/mascot/gxb-yessir.png" width="168" align="left" alt="鸽小包">
+先把仓库放到本机，后面的命令都在仓库根目录执行。<br>
+两条路线挑一条：<br>
+路线 ① 不装任何东西，大多数同学用这条；<br>
+路线 ② 给还想让助手往飞书里写的人。
+<br clear="left"></p>
 
 
 ```bash
