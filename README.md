@@ -572,7 +572,10 @@ flowchart LR
 
 ## 赞赏
 
-<img src="docs/images/reward-row.png" width="893" alt="如果这套复盘方法帮你拿到了面试或 offer，欢迎扫码请我喝杯咖啡，所有内容永久免费。">
+如果这套复盘方法帮你拿到了面试或 offer，欢迎扫码请我喝杯咖啡，所有内容永久免费。
+
+<p><img src="docs/images/reward-qrcode.jpg" width="260" alt="赞赏码">
+<img src="docs/images/mascot/gxb-offer.png" width="260" alt="鸽小包"></p>
 
 ## 商务合作
 
