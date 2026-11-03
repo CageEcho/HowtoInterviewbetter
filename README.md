@@ -28,7 +28,7 @@
 </td></tr>
 </table>
 
-<img src="docs/images/mascot-rows/hi.png" width="760" alt="鸽小包在这儿。它是这本手册的吉祥物：一只白色、圆得像包子的鸽子。往下看：这套方法是什么、两条怎么开始的路、十五个飞书板块、一场面试从投递走到复盘，以及绿红黄三色框什么时候用。">
+<img src="docs/images/mascot-rows/hi.png" width="764" alt="鸽小包在这儿。它是这本手册的吉祥物：一只白色、圆得像包子的鸽子。往下看：这套方法是什么、两条怎么开始的路、十五个飞书板块、一场面试从投递走到复盘，以及绿红黄三色框什么时候用。">
 
 
 <img src="docs/images/divider.png" width="880" alt="">
@@ -69,7 +69,7 @@
 
 ## 快速开始
 
-<img src="docs/images/mascot-rows/yessir.png" width="760" alt="先把仓库放到本机，后面的命令都在仓库根目录执行。两条路线挑一条：路线 ① 不装任何东西，大多数同学用这条；路线 ② 给还想让助手往飞书里写的人。">
+<img src="docs/images/mascot-rows/yessir.png" width="764" alt="先把仓库放到本机，后面的命令都在仓库根目录执行。两条路线挑一条：路线 ① 不装任何东西，大多数同学用这条；路线 ② 给还想让助手往飞书里写的人。">
 
 
 ```bash
@@ -123,7 +123,7 @@ cd howtointerviewbetter
 
 ## 安装 Skill
 
-<a href="skills/interview-review/README.md"><img src="docs/images/mascot-rows/heart-eyes.png" width="760" alt="让 AI 照书做复盘。装上之后，把转写链接和逐字稿交给它。它按手册写复盘、打分，并列出要回写的三处。第一次用，对它说「帮我建面试复盘飞书结构」。"></a>
+<a href="skills/interview-review/README.md"><img src="docs/images/mascot-rows/heart-eyes.png" width="764" alt="让 AI 照书做复盘。装上之后，把转写链接和逐字稿交给它。它按手册写复盘、打分，并列出要回写的三处。第一次用，对它说「帮我建面试复盘飞书结构」。"></a>
 
 
 <img src="docs/images/skill-install.png" alt="Skill 安装位置：Claude Code 放在 .claude/skills，Codex 放在 .agents/skills，其他助手放在各自的 skills 目录或把 SKILL.md 贴进对话。要复制整份 interview-review 目录。" width="880">
@@ -496,7 +496,7 @@ flowchart LR
 
 ## 常见问题
 
-<img src="docs/images/mascot-rows/sleep.png" width="760" alt="先看这几条。脚本报错的对照表在下面。">
+<img src="docs/images/mascot-rows/sleep.png" width="764" alt="先看这几条。脚本报错的对照表在下面。">
 
 脚本报错的对照表在 <a href="skills/interview-review/feishu-app-setup.md#三常见报错对照">常见报错对照</a>。
 
@@ -575,10 +575,10 @@ flowchart LR
 如果这套复盘方法帮你拿到了面试或 offer，欢迎扫码请我喝杯咖啡，所有内容永久免费。
 
 <p><img src="docs/images/reward-qrcode.jpg" width="260" align="middle" alt="赞赏码">
-<img src="docs/images/mascot/gxb-offer.png" width="151" align="middle" alt="鸽小包"></p>
+<img src="docs/images/mascot/gxb-offer.png" width="193" align="middle" alt="鸽小包"></p>
 
 ## 商务合作
 
 📮 zsysabre@163.com
 
-<img src="docs/images/mascot-rows/big-heart.png" width="760" alt="看到这儿就可以去写下一场了。挑一两条先用起来就算数。">
+<img src="docs/images/mascot-rows/big-heart.png" width="764" alt="看到这儿就可以去写下一场了。挑一两条先用起来就算数。">
