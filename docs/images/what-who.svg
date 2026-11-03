@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="638" viewBox="0 0 1760 638">
+<rect width="1760" height="638" fill="#FFFFFF"/>
+<rect x="10" y="8" width="1740" height="622" rx="26" fill="#F4F8FE"/>
+<text x="32" y="24" font-family="Noto Sans CJK SC" font-weight="500" font-size="20" fill="#1E6FD9" dominant-baseline="text-before-edge">先看这两件事</text>
+<text x="32" y="56" font-family="Noto Sans CJK SC" font-weight="700" font-size="36" fill="#0B3D91" dominant-baseline="text-before-edge">这套东西是什么，适合谁</text>
+<rect x="24" y="130" width="838" height="484" rx="22" fill="#1E6FD9"/>
+<rect x="27" y="133" width="832" height="478" rx="20" fill="#FFFFFF"/>
+<text x="443.0" y="158" font-family="Noto Sans CJK SC" font-weight="700" font-size="30" fill="#0B3D91" text-anchor="middle" dominant-baseline="text-before-edge">这套东西是什么</text>
+<circle cx="61.0" cy="217.4" r="6.0" fill="#1E6FD9"/>
+<text x="79" y="204" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">一份面试复盘方法，不是题库，也不是任务清单。</text>
+<circle cx="61.0" cy="255.4" r="6.0" fill="#1E6FD9"/>
+<text x="79" y="242" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">一个固定入口：资料都挂在同一份总文档下，</text>
+<text x="79" y="284" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">链接发出去就不再换。</text>
+<circle cx="61.0" cy="335.4" r="6.0" fill="#1E6FD9"/>
+<text x="79" y="322" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">一岗一行：同一个岗位下一轮只改状态和备注。</text>
+<circle cx="61.0" cy="373.4" r="6.0" fill="#1E6FD9"/>
+<text x="79" y="360" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">一场一档：每场面试一份复盘，转写和逐字稿放在里面。</text>
+<circle cx="61.0" cy="411.4" r="6.0" fill="#1E6FD9"/>
+<text x="79" y="398" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">三色话术：绿框口播、红框避坑、黄框追问，</text>
+<text x="79" y="440" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">复习时一眼能找到。</text>
+<circle cx="61.0" cy="491.4" r="6.0" fill="#1E6FD9"/>
+<text x="79" y="478" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">可量化打分：按环节判完全到位、合格或不合格。</text>
+<circle cx="61.0" cy="529.4" r="6.0" fill="#1E6FD9"/>
+<text x="79" y="516" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">正文在 book/，空白模板在 templates/，</text>
+<text x="79" y="558" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">脱敏样例在 examples/。</text>
+<rect x="898" y="130" width="838" height="362" rx="22" fill="#1E6FD9"/>
+<rect x="901" y="133" width="832" height="356" rx="20" fill="#FFFFFF"/>
+<text x="1317.0" y="158" font-family="Noto Sans CJK SC" font-weight="700" font-size="30" fill="#0B3D91" text-anchor="middle" dominant-baseline="text-before-edge">适合谁</text>
+<circle cx="935.0" cy="217.4" r="6.0" fill="#1E6FD9"/>
+<text x="953" y="204" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">正在找 AI 产品经理岗位，想把每场面试留下来的人。</text>
+<circle cx="935.0" cy="255.4" r="6.0" fill="#1E6FD9"/>
+<text x="953" y="242" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">只想先做一条的人：只写三色框、只建面试表，</text>
+<text x="953" y="284" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">或只做归档。</text>
+<circle cx="935.0" cy="335.4" r="6.0" fill="#1E6FD9"/>
+<text x="953" y="322" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">想让 AI 按同一套口径写复盘、打分、列出要回写的三处。</text>
+<circle cx="935.0" cy="373.4" r="6.0" fill="#1E6FD9"/>
+<text x="953" y="360" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">不用全做。这是一份备选单，挑一两条先用起来就算数。</text>
+<circle cx="935.0" cy="411.4" r="6.0" fill="#1E6FD9"/>
+<text x="953" y="398" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">做法来自面试复盘的整理，不一定贴合每一家公司的流程。</text>
+<circle cx="935.0" cy="449.4" r="6.0" fill="#1E6FD9"/>
+<text x="953" y="436" font-family="Noto Sans CJK SC" font-weight="500" font-size="28" fill="#0E2A5C" dominant-baseline="text-before-edge">分享之前先去掉真实姓名、公司、薪资和链接。</text>
+</svg>
